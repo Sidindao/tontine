@@ -2,6 +2,8 @@ Application de Tontine
 Description du projet
 
 L'application Tontine est une plateforme web qui permet de gérer des tontines en ligne. Une tontine est un système d'épargne rotatif où un groupe de personnes cotisent régulièrement pour constituer un fonds commun qui est distribué périodiquement à chaque membre, selon un cycle défini. Ce projet facilite la gestion des tontines, depuis la création et la gestion des groupes, jusqu'à la collecte des contributions et la distribution des fonds aux membres.
+
+
 Fonctionnalités principales
 
     Création de tontines : Les administrateurs ou utilisateurs peuvent créer des tontines en définissant le montant des cotisations, la fréquence des versements, et l'ordre de réception des fonds par les membres.
